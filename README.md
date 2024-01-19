@@ -4,5 +4,4 @@
 <div class="container" align="center">
         <img alt="Cedric streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=CedricGuillemet&theme=dark&hide_border=true"/>
         <img alt="Cedric top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricGuillemet&hide=scss,css,html&layout=compact&theme=dark"/>
-        <img alt="Cedric stats" src="https://github-readme-stats.vercel.app/api?username=cedricguillemet&show_icons=true&locale=en"/>
 </div>
